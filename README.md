@@ -1,2 +1,2 @@
 <h1>NoScroll</h1>
-<span>NoScroll Is a JS script that justs gets rid of scroll cdn public I Coded it So You Dont Have To😊</span>
+<span>NoScroll Is a JS script that justs gets rid of scroll. Thats Really it But You Can Check Out <a href="https://duckgodigital.com/"> The Duck Go Digital Project </a> </span>
